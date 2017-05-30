@@ -1,0 +1,5 @@
+Dummy.
+Github does not like empty directories.
+My project needs an empty directory called bin.
+If I create bin/dummy4github.txt then delete it, github also deletes the empty folder "bin".
+
